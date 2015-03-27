@@ -6,6 +6,9 @@
 Clojure API 文档
 ==========================================
 
+.. image:: image/clojure-icon.gif
+   :align: right
+
 这是 Clojure 官方 API 文档
 `clojure.github.com/clojure
 <http://clojure.github.com/clojure/>`_
@@ -22,8 +25,12 @@ Clojure API 文档
    :maxdepth: 2
 
    clojure.core/index
+   clojure.core.async/index
+   clojure.data/index
+   clojure.pprint/index
    clojure.string/index
    clojure.set/ind
+   clojure.test/index
    clojure.java.browse/index
    clojure.java.io/index
    clojure.java.javadoc/index
